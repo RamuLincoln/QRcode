@@ -1,0 +1,40 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.box {
+    border-radius: 10px;
+    height: 430px;
+    width: 240px;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(0, 0%, 100%);
+    padding: 10px; 
+    position: absolute; 
+    top: 25%;
+    left: 45%; 
+}
+.img {
+    border-radius: 10px;
+    height: 280px;
+    width: 240px;
+}
+.title {
+    font-size: 400;
+    font-weight: bold;
+    font-family: 'outfit', sans-serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+.para {
+    font-size: 15px;
+    font-family: 'outfit';
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
